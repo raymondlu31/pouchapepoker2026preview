@@ -1,11 +1,11 @@
-# pouchapepoker2026preview - Design Doc
+# pouchapepoker2026 - Design Doc
 
-## 袋猿扑克2026预览版
+## 袋猿扑克2026
 
 
 ## Project Overview
 
-Pouch Ape Poker 2026 preview is a poker intuition training game developed using Flutter, incorporating the philosophical ideas of the Chinese I Ching. The game trains players' probabilistic intuition and decision-making abilities through 27 rounds of card comparison, while also integrating game results with the Eight Trigrams (8 Gua) and the Sixty-Four Hexagrams (64 Gua) to provide players with a deeper gaming experience.
+Pouch Ape Poker 2026 is a poker intuition training game developed using Flutter, incorporating the philosophical ideas of the Chinese I Ching. The game trains players' probabilistic intuition and decision-making abilities through 27 rounds of card comparison, while also integrating game results with the Eight Trigrams (8 Gua) and the Sixty-Four Hexagrams (64 Gua) to provide players with a deeper gaming experience.
 
 ### Core Features
 
@@ -392,6 +392,7 @@ Mainly modify the following files:
 ## License
 
 Please refer to the LICENSE file.
+
 
 
 
