@@ -4,7 +4,7 @@
 
 ## Overview
 
-Pouch Ape Poker 2026 ("the Game") is a probability intuition training game developed by Raymond Lu. This Privacy Policy explains how we collect, use, and protect your information when you use the Game.
+Pouch Ape Poker 2026 ("the Game") is a probability intuition training game developed by Yun Lu. This Privacy Policy explains how we collect, use, and protect your information when you use the Game.
 
 ## Developer Information
 
