@@ -8,7 +8,7 @@ Pouch Ape Poker 2026 ("the Game") is a probability intuition training game devel
 
 ## Developer Information
 
-- **Developer Name:** Raymond Lu
+- **Developer Name:** Yun Lu
 - **Contact Email:** raymondlou2025@outlook.com
 
 ## Data Collection
@@ -105,11 +105,11 @@ This Privacy Policy is designed to comply with:
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or the Game's privacy practices, please contact:
 
-**Raymond Lu**
+**Yun Lu**
 Email: raymondlou2025@outlook.com
 
 We will respond to your inquiry within a reasonable timeframe.
 
 ---
 
-*This Privacy Policy applies only to PouchApe Poker 2026 Preview and does not apply to any third-party websites, applications, or services that you may access through links in the Game.*
+*This Privacy Policy applies only to PouchApe Poker 2026 and does not apply to any third-party websites, applications, or services that you may access through links in the Game.*
