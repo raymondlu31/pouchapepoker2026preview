@@ -112,4 +112,4 @@ We will respond to your inquiry within a reasonable timeframe.
 
 ---
 
-*This Privacy Policy applies only to PouchApe Poker 2026 and does not apply to any third-party websites, applications, or services that you may access through links in the Game.*
+*This Privacy Policy applies only to Pouch Ape Poker 2026 and does not apply to any third-party websites, applications, or services that you may access through links in the Game.*
